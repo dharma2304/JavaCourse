@@ -1,8 +1,8 @@
-package Composition;
+package OOPS.Composition;
 
-import Composition.Components.GraphicCard;
-import Composition.Components.Processor;
-import Composition.Laptop.Laptop;
+import OOPS.Composition.Components.GraphicCard;
+import OOPS.Composition.Components.Processor;
+import OOPS.Composition.Laptop.Laptop;
 
 public class Demo {
     public static void main(String [] args){

@@ -1,4 +1,4 @@
-package Composition.Components;
+package OOPS.Composition.Components;
 
 public class GraphicCard {
     private String brand;

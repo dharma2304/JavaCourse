@@ -22,8 +22,12 @@ public interface Vehicle {
      For instance vehicles like car, bike, bicycle have some common functionalities. We can put these common functionalities
      in the interface and lets the functionalities can be implemented in the respective classes in their own ways.
 
+     Refer to : https://www.geeksforgeeks.org/interfaces-in-java/
      */
 
+    void increaseSpeed(int a);
+    void changeGear(int b);
+    void applyBrakes(int c);
 
 }
 

@@ -1,2 +1,8 @@
-package OOPS.PolyMorphism;public class Nokia3310 {
+package OOPS.PolyMorphism;
+
+public class Nokia3310 extends Phone {
+    public Nokia3310(String model) {
+        super(model);
+    }
+
 }
